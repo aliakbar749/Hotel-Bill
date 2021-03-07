@@ -1,0 +1,153 @@
+*{
+    margin:0 px;
+    padding: 0 px;
+}
+.top-contain{
+    height: 75px;
+    width: 100%;
+    background-color: #538ce8;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+}
+.top-contain img{
+    
+    height: 60px;
+    width: 100px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.sub-top{
+    height: 100%;
+    width: 50%;
+    float:right;
+}
+.contain1{
+    float:left;
+    width: 33%;
+   
+
+}
+.contain1 p{
+    margin-left: 20px;
+}
+.contain2{
+    float:left;
+    width: 33%;
+    border-left:dashed beige;
+}
+.contain2 p{
+    margin-left: 10px;
+}
+.contain3{
+    float:left;
+    width:33%;
+    border-left:dashed beige;
+
+}
+.contain3 p{
+    margin-left: 5px;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+    padding-top: 75px;
+  }
+  .container-fluid{
+    display: flex;
+
+
+  }
+.What-we-do h2{
+    text-align: center;
+}
+.timer-initiatives{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+}
+.timer{
+    
+    
+    float: left;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 42px;
+    overflow: hidden;
+    background-image: url(111.jpg);
+  
+}
+.timer p{
+    margin-top: 100px;
+}
+
+.initiatives{
+    
+    margin-left: 5px;
+}
+.initiatives h3{
+    text-align: left;
+}
+.sportlihgt h3, h5{
+    text-align: center;
+}
+.vision{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    /* background-color: coral; */
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.description{
+    height: 400px;
+    width: 50%;
+    margin-right: 5px;
+    background-color: darkgreen;
+
+
+}
+
+
+.vision-img{
+    height: ;
+}
+h1{
+    text-align: center;
+}
+.course{
+    height: 635px;
+    width: 100%;
+}
+.timer2{
+ 
+    height: 647px; 
+    width: 49%;
+    
+    float: left;
+    text-align: center;
+    background-image: url(‘image/depositphotos_155069264-stock-photo-time-is-running-out-clock.jpg’);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.pic2{
+    /* height: 450px; */
+    width: 49%;
+    margin-left: 5px;
+    float: left;
+}
+/* multipletimer */
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+  .affix + .container-fluid {
+    padding-top: 75px;
+  }
